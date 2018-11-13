@@ -1,6 +1,6 @@
 ## Install
 
-    go get github.com/gostores/urlesc
+    go get github.com/govenue/urlesc
 
 ## License
 
